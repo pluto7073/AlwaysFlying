@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "alwaysflying",
+  "version": "1.0",
+
+  "name": "Fly Without Elytra",
+  "description": "This mod makes it so you never stop flying like you have elytra on.",
+  "authors": [
+    "Pluto7073"
+  ],
+  "contact": {
+    "homepage": "https://pluto7073.weebly.com",
+    "sources": "https://github.com/pluto7073/AlwaysFlying/tree/master"
+  },
+
+  "license": "CC0-1.0",
+  "icon": "assets/alwaysflying/icon.png",
+
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "com.pluto7073.alwaysflying.AlwaysFlying"
+    ]
+  },
+  "mixins": [
+  ],
+
+  "depends": {
+    "fabricloader": ">=0.7.4",
+    "fabric": "*",
+    "minecraft": "1.16.x",
+    "fabric-key-binding-api-v1": "*"
+  },
+  "suggests": {
+    "flamingo": "*"
+  }
+}
