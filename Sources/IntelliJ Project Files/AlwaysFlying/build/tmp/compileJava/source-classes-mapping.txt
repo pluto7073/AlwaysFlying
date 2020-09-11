@@ -1,4 +1,0 @@
-com/pluto7073/alwaysflying/FlyStarter.java
- com.pluto7073.alwaysflying.FlyStarter
-com/pluto7073/alwaysflying/AlwaysFlying.java
- com.pluto7073.alwaysflying.AlwaysFlying
